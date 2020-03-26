@@ -8,10 +8,6 @@
   color: #eee;
 }
 
-.post {
-  margin: 4em 0;
-}
-
 .post-inner {
   padding-left: 2em;
 }
@@ -22,6 +18,17 @@
   border-radius: 50%;
 }
 
+.post-meta h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
 .post-meta p {
   color: #777;
+}
+
+.authors-widget-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
 }
