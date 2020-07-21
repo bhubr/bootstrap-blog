@@ -40,3 +40,17 @@
   height: 24px;
   border-radius: 50%;
 }
+
+footer {
+  padding: 2em 0;
+  background: #658;
+  color: #ddd;
+}
+
+footer a {
+  color: #ddd;
+}
+
+footer a:hover {
+  color: #fff;
+}
